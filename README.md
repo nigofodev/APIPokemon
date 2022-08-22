@@ -1,2 +1,2 @@
-# APIPokemon
-This is a Pokemon API 
+# APIRickNMorty
+This is a Rick and Morty API 
